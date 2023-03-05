@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\Worker\stockList.h(60,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Worker.vcxproj -> C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\x64\Debug\Worker.exe

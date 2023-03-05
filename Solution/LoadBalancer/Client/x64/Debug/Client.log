@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\Client\main.cpp(19,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\Client\main.cpp(88,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\x64\Debug\Client.exe

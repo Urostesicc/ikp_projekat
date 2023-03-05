@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\LoadBalancer\common.h(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\LoadBalancer\main.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\LoadBalancer\handleDistribution.h(18,46): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\LoadBalancer\handleDistribution.h(59,37): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  LoadBalancer.vcxproj -> C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\x64\Debug\LoadBalancer.exe

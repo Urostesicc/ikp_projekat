@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\x64\Debug\Client.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\x64\Debug\Worker.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\HP\Downloads\IKP_Projekat\IKP_Projekat\Solution\LoadBalancer\x64\Debug\LoadBalancer.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
